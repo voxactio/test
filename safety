@@ -1,0 +1,85 @@
+			<div class="common-box">
+                <div class="common-box-header">
+                    <h4 class="common-box-title">강의목차&nbsp;&nbsp;<button type="button" class="button-classroom-play" data-action="refreshPage">진도율새로고침</button>
+                    
+                </div>
+               	<div class="common-box-body">
+					<!--
+						반응형을 위해 테이블 대신 ul li 사용,
+						thead의 하위 span과 tbody > li 내의 dl 개수는 동일하여야 합니다.
+					-->
+					<article class="classroom classroom-contents">
+						<div class="like-table" data-toggle="like-table">
+							<div class="thead">
+								<span class="th W80">차수</span>
+								<span class="th W430">학습목차</span>
+								<span class="th W100">진도율</span>
+								<span class="th W100">학습횟수</span>
+								<span class="th W120">학습시간(분)</span>
+								<span class="th W165">최초학습일시</span>
+								<span class="th W165">최종학습일시</span>
+								<span class="th W120">학습하기</span>
+							</div>
+							<ul class="tbody">
+								
+									<li class="tr">
+										<dl class="td"><dt>차수</dt><dd>1</dd></dl>
+										<dl class="td text-left"><dt>학습목차</dt><dd>(mini)_공공기관 안전관리</dd></dl>
+										<dl class="td">
+											<dt>진도율</dt><dd>
+												
+													완료
+													
+												
+											</dd>
+										</dl>
+										<dl class="td"><dt>학습횟수</dt><dd>5</dd></dl>
+										<dl class="td"><dt>학습시간(분)</dt><dd>00:13:52</dd></dl>
+										<dl class="td"><dt>최초학습일시</dt><dd>2022.05.18 13:02:26</dd></dl>
+										<dl class="td"><dt>최종학습일시</dt><dd>2022.05.18 13:19:28</dd></dl>
+										<dl class="td">
+											<dt>학습하기</dt><dd>
+												<button type="button" class="button-classroom-play orange"
+											 		data-action="openStudyConfirm" 
+											 		data-device="" 
+											 		data-site-cd="E" 
+											 		data-edu-type-cd="10" 
+											 		data-gisu-attend-cd="180D54AE102KXNMOMBMT" 
+											 		data-gisu-module-cd="17DEAF72E8BQCYZVVUCV" 
+											 		data-width="1024" 
+											 		data-height="768"
+											 		data-contents-type-cd="002">학습하기</button>
+											 </dd>
+										</dl>
+									</li>
+								
+									<li class="tr">
+										<dl class="td"><dt>차수</dt><dd>2</dd></dl>
+										<dl class="td text-left"><dt>학습목차</dt><dd>공공기관 안전관리 개론</dd></dl>
+										<dl class="td">
+											<dt>진도율</dt><dd>
+												
+													완료
+													
+												
+											</dd>
+										</dl>
+										<dl class="td"><dt>학습횟수</dt><dd>3</dd></dl>
+										<dl class="td"><dt>학습시간(분)</dt><dd>00:58:05</dd></dl>
+										<dl class="td"><dt>최초학습일시</dt><dd>2022.05.18 13:55:01</dd></dl>
+										<dl class="td"><dt>최종학습일시</dt><dd>2022.05.18 15:28:04</dd></dl>
+										<dl class="td">
+											<dt>학습하기</dt><dd>
+												<button type="button" class="button-classroom-play orange"
+											 		data-action="openStudyConfirm" 
+											 		data-device="" 
+											 		data-site-cd="E" 
+											 		data-edu-type-cd="10" 
+											 		data-gisu-attend-cd="180D54AE102KXNMOMBMT" 
+											 		data-gisu-module-cd="17DEAF74D82LEYILGADG" 
+											 		data-width="-1" 
+											 		data-height="-1"
+											 		data-contents-type-cd="001">학습하기</button>
+											 </dd>
+										</dl>
+									</li>
